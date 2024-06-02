@@ -139,8 +139,3 @@ To mitigate overfitting, we added a dense layer with 128 neurons, applied a drop
 
 - [@HasnainMuavia](https://github.com/HasnainMuavia1)
 
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/gDL6yBB/Screenshot-2024-06-02-175305.pngb)
-
