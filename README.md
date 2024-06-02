@@ -133,7 +133,8 @@ To mitigate overfitting, we added a dense layer with 128 neurons, applied a drop
 ![](Aspose.Words.31ec207a-5099-4fad-bc7a-7f6326349910.023.png)![](Aspose.Words.31ec207a-5099-4fad-bc7a-7f6326349910.024.png)
 
 **Credit:**
-
+Note:
+simple modification will be required because i use this code on my other project too 
 **Hasnain Muavia**
 ## Authors
 
