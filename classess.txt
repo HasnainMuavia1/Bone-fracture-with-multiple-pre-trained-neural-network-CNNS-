@@ -1,0 +1,8 @@
+chest = 0
+foot = 1
+hand = 2
+hip  = 3
+leg = 4
+shoulder= 5
+spinal = 6
+upper arm = 7
